@@ -1,8 +1,9 @@
 <?php phpinfo();
 
-echo "one";
+echo "onenonoono";
 echo "two";
-echo "three";
+
+echo "rgge";
 
  ?>
 
